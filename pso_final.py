@@ -3,7 +3,7 @@ import numpy as np
 C_1 = 0.9 # Cognitive Component
 C_2 = 1 # Social Component
 MAX_ITER = 300
-NO_OF_PARTICLES = 10
+NO_OF_PARTICLES = 100
 
 MAX_BOUND_X = 10
 MIN_BOUND_X = -10
